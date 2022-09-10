@@ -113,4 +113,4 @@ Which represents the image from the example above. Note there are no spaces afte
     Name:Doe, John. Gender:M DOB:03/01/1990 AGE: 30 H: 70in. W:180lb., MHR:190, THR:95 - 161, BMI:25.82
     Name:Doe, Jane. Gender:F DOB:05/20/1995 AGE: 25 H: 60in. W:150lb., MHR:195, THR:97 - 165, BMI:29.29
     ```
-![alt text](https://github.com/[a-burlacu]/[CSCI-3920]/blob/[branch]/image.jpg?raw=true)
+![](https://github.com/a-burlacu/CSCI-3920/blob/main/Hwk1/hwk1_health_record.png)
