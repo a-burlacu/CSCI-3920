@@ -1,0 +1,30 @@
+"C:\Program Files\Java\jdk1.8.0_341\bin\java.exe" -javaagent:C:\Users\Alina\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\222.3739.54\lib\idea_rt.jar=49351:C:\Users\Alina\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\222.3739.54\bin -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_341\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\rt.jar;C:\Users\Alina\OneDrive - The University of Colorado Denver\Coding\CSCI-3920\Lab1-Complete\out\production\Lab1" edu.ucdenver.libraryapp.MyLibraryApp
+>>>>>>>>>>>>>>>>>>
+This is the My Auraria Library library.
+== Author List ==
+
+== Book List ==
+
+<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>
+This is the My Auraria Library library.
+== Author List ==
+John Grisham (Author)
+David Baldacci (Author)
+John Grisham (Author)
+
+== Book List ==
+
+<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>
+This is the My Auraria Library library.
+== Author List ==
+John Grisham (Author)
+David Baldacci (Author)
+John Grisham (Author)
+
+== Book List ==
+
+<<<<<<<<<<<<<<<<<<
+
+Process finished with exit code 0
