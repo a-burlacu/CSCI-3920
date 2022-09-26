@@ -8,3 +8,8 @@
 <h1>
 <a href="https://github.com/a-burlacu/CSCI-3920/tree/main/Hwk1"> Homework 1 </a>
 </h1>
+
+
+<h1>
+<a href="https://github.com/a-burlacu/CSCI-3920/tree/main/Hwk2"> Homework 2 </a>
+</h1>
