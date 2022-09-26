@@ -29,7 +29,7 @@ The library class works as some fashion of public interface for the package, and
 These classes represent the hierarchy of different types of books that the library may have. Book is part of the generalization of books. PrintedBook represents paperback books while EBook represent electronic (digital) books. 
 #### Main Methods:
 
-`getNumPages()`: returns the number of pages in the book. This will be different for books and for ebooks. For the latter are basically computed by $\lfloor{num\_words\ /\ num\_words\_per\_page} \rfloor$ and for printed books is the actual number of pages. *Throw ArithmeticException error to prevent division by 0!* 
+`getNumPages()`: returns the number of pages in the book. This will be different for books and for ebooks. For the latter are basically computed by $\lfloor{numWords\ /\ numWordsPerPage} \rfloor$ and for printed books is the actual number of pages. *Throw ArithmeticException error to prevent division by 0!* 
 
 `toString()`: each class should return the string that represent the context of the object for the class. Code should not be rewritten but reused.
 
