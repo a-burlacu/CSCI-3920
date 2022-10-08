@@ -13,3 +13,9 @@
 <h1>
 <a href="https://github.com/a-burlacu/CSCI-3920/tree/main/Hwk2"> Homework 2 </a>
 </h1>
+
+
+<h1>
+<a href="https://github.com/a-burlacu/CSCI-3920/tree/main/Hwk3"> Homework 3 </a>
+</h1>
+
