@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.ucdenver.application.Controller">
+   <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="50.0" />
+   </rowConstraints>
+   <children>
+      <TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="670.0" prefWidth="1080.0" tabClosingPolicy="UNAVAILABLE" GridPane.valignment="TOP">
+        <tabs>
+            <Tab text="Add Student">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="353.0" layoutY="51.0" prefHeight="170.0" prefWidth="602.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="314.304931640625" minWidth="10.0" prefWidth="170.14398193359375" />
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="527.6376953125" minWidth="10.0" prefWidth="494.85601806640625" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <Label text="Student Name" />
+                              <Label text="Student DOB" GridPane.rowIndex="1" />
+                              <DatePicker fx:id="dtpStudentDOB" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <TextField fx:id="txtStudentName" GridPane.columnIndex="1" />
+                              <GridPane prefHeight="65.0" prefWidth="553.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                                <columnConstraints>
+                                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                </columnConstraints>
+                                <rowConstraints>
+                                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                </rowConstraints>
+                                 <children>
+                                    <Button fx:id="btnAddUndergraduate" mnemonicParsing="false" onAction="#addUndergraduateStudent" prefHeight="26.0" prefWidth="135.0" text="Add Undergraduate" GridPane.halignment="CENTER" />
+                                    <Button fx:id="btnAddMaster" mnemonicParsing="false" onAction="#addMasterStudent" text="Add Master" GridPane.columnIndex="1" GridPane.halignment="CENTER" />
+                                    <Button fx:id="btnAddPhD" mnemonicParsing="false" onAction="#addPhDStudent" text="Add PhD" GridPane.columnIndex="2" GridPane.halignment="CENTER" />
+                                 </children>
+                              </GridPane>
+                              <Label text="PhD Dissertation" GridPane.rowIndex="2" />
+                              <TextField fx:id="txtPhdDissertation" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                           </children>
+                        </GridPane>
+                        <ImageView fitHeight="140.0" fitWidth="229.0" layoutX="86.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@student.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+          <Tab text="Add Course">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="355.0" layoutY="51.0" prefHeight="152.0" prefWidth="412.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="200.64398193359375" minWidth="10.0" prefWidth="128.33758544921875" />
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="283.66241455078125" minWidth="10.0" prefWidth="283.66241455078125" />
+                          </columnConstraints>
+                          <rowConstraints>
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <Label text="Course Subject" />
+                              <Label text="Course Number" GridPane.rowIndex="1" />
+                              <Label text="Course Title" GridPane.rowIndex="2" />
+                              <TextField fx:id="txtCourseNumber" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <TextField fx:id="txtCourseTitle" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                              <Button fx:id="btnAddCourse" mnemonicParsing="false" onAction="#addCourse" text="Add Course" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3" />
+                              <ComboBox fx:id="selCourseSubject" prefWidth="150.0" promptText="Select Course" GridPane.columnIndex="1" />
+                           </children>
+                        </GridPane>
+                        <ImageView fitHeight="135.0" fitWidth="163.0" layoutX="109.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@course.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+            <Tab fx:id="tabListStudents" onSelectionChanged="#listStudentsUpdate" text="List Students">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                        <children>
+                            <ListView fx:id="lstStudent" layoutX="26.0" layoutY="95.0" prefHeight="517.0" prefWidth="1029.0" />
+                            <Label layoutX="32.0" layoutY="24.0" prefHeight="37.0" prefWidth="1013.0" text="Student List" textFill="#7b8aff">
+                                <font>
+                                    <Font size="50.0" />
+                                </font>
+                            </Label>
+                        </children>
+                    </AnchorPane>
+                </content>
+            </Tab>
+            <Tab fx:id="tabListCourses" onSelectionChanged="#listCoursesUpdate" text="List Courses">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ListView fx:id="lstCourses" layoutX="26.0" layoutY="95.0" prefHeight="517.0" prefWidth="1029.0" />
+                        <Label layoutX="32.0" layoutY="24.0" prefHeight="37.0" prefWidth="1013.0" text="Course List" textFill="#7b8aff">
+                           <font>
+                              <Font size="50.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+            <Tab text="Enroll Student">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <GridPane layoutX="201.0" layoutY="170.0" prefHeight="148.0" prefWidth="577.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="283.64398193359375" minWidth="10.0" prefWidth="165.811279296875" />
+                            <ColumnConstraints hgrow="SOMETIMES" maxWidth="411.188720703125" minWidth="10.0" prefWidth="411.188720703125" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <Label text="Student Name" GridPane.halignment="CENTER" />
+                              <Label text="Course Subject" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+                              <Label text="Course Number" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+                              <TextField fx:id="txtStudName" GridPane.columnIndex="1" />
+                              <TextField fx:id="txtCourseSub" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <TextField fx:id="txtCourseNum" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                              <Button fx:id="btnEnroll" mnemonicParsing="false" onAction="#addEnrollment" text="Enroll" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+            <Tab fx:id="tabEnrollList" onSelectionChanged="#listEnrollUpdate" text="List Enrollments">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <Label layoutX="41.0" layoutY="12.0" text="Enrollments" textFill="#7b8aff">
+                           <font>
+                              <Font size="50.0" />
+                           </font>
+                        </Label>
+                        <GridPane layoutX="20.0" layoutY="84.0" prefHeight="538.0" prefWidth="1048.0">
+                          <columnConstraints>
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints maxHeight="260.9659729003906" minHeight="10.0" prefHeight="38.690643310546875" vgrow="SOMETIMES" />
+                            <RowConstraints maxHeight="499.3093566894531" minHeight="10.0" prefHeight="499.3093566894531" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <ListView fx:id="lstEnrollCourse" prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1" />
+                              <ListView fx:id="lstEnrollStudent" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <Label text="Courses" GridPane.halignment="CENTER" />
+                              <Label text="Enrolled Students" GridPane.columnIndex="1" GridPane.halignment="CENTER" />
+                           </children>
+                        </GridPane>
+                     </children>
+                  </AnchorPane>
+              </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+      <GridPane prefHeight="86.0" prefWidth="1080.0" GridPane.rowIndex="1">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="btnExit" mnemonicParsing="false" onAction="#exitApplication" prefHeight="26.0" prefWidth="126.0" text="Exit" GridPane.columnIndex="1" GridPane.halignment="CENTER" />
+            <Button mnemonicParsing="false" onAction="#saveToFile" prefHeight="26.0" prefWidth="126.0" text="Save To File" GridPane.columnIndex="2" GridPane.halignment="CENTER" />
+            <Button mnemonicParsing="false" onAction="#loadFromFile" prefHeight="26.0" prefWidth="125.0" text="Load From File" GridPane.halignment="CENTER" />
+         </children>
+      </GridPane>
+   </children>
+</GridPane>
