@@ -3,7 +3,7 @@ This homework, the last homework on Java, will navigate through concepts of mult
 
 Morse Code is a simple character encoding that allows transmission using sound and light among others. The standard representation is dots (.) and dashes (-). When transmitted through sound the dot represents a short sound and a dash is a long sound. Words are delimited by spaces when written or by a long pause (absence of sound), while characters can be delimited by a symbol and by a short pause when transmitted by sound. 
 
-<img src="https://github.com/a-burlacu/CSCI-3920/blob/main/Hwk4/morse_code.png" width="300" center >
+![morse_code](./morse_code.png)<img src="https://github.com/a-burlacu/CSCI-3920/blob/main/Hwk4/morse_code.png" width="300" center >
 
 # 2.1 Part #1 - Morse encoding
 
@@ -105,4 +105,7 @@ Extend your server to be a multi-threaded server. In other words, your server sh
 
 ---
 # 3. UML Class Diagram
+![hwk4.uml](./hwk4.uml.png)
+
 <img src="https://github.com/a-burlacu/CSCI-3920/blob/main/Hwk4/hwk4.uml.png" width="300" center >
+
