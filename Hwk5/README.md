@@ -28,8 +28,10 @@
 
    - Variance is computed as
       $
-       \sigma^2=\frac{\left\{1\right\}}{m-1}\sum_{i=1}^m\left(x_i-\overline{x}\right)^2 
+       \sigma^{2}=\frac{\left\{1\right\}}{m-1}\sum_{i=1}^m\left(x_i-\overline{x}\right)^2 
       $
+      
+       σ2={1}m−1∑mi=1(xi−x¯¯¯)2
 
 - 
   - where *m* is the number of elements to compute the variance, xi is the *ith* element, and  x¯ is the mean of the values.
