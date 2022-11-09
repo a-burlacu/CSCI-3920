@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d7c9f9d-3980-417e-92fa-43195ccc8023" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab2-Completed/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-Completed/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/PhD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/PhD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2-Completed/src/main/java/edu/ucdenver/university/Undergraduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/ServerExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/ServerExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/src/SimpleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/src/SimpleClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/src/SimpleServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/src/SimpleServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/src/ser/ObjectClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/src/ser/ObjectClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/src/ser/ObjectServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/src/ser/ObjectServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerExample/src/ser/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerExample/src/ser/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/application/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/application/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/PhD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/PhD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/Undergraduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/cudenver/university/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/PhD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/PhD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniversityGUI/src/main/java/edu/ucdenver/university/Undergraduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/._edu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/._ucdenver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/._application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/._university" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/university/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/._edu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/._ucdenver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/._application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/application/._application.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/application/._course.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/application/._student.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipwKbNQGb1T4fB3ldoeRPuY3uy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Alina/OneDrive - The University of Colorado Denver/Coding/CSCI-3920/PrintTask",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.cudenver.sequential" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Concurrent">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concurrent" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.cudenver.concurrent.WordCountApp" />
+      <module name="Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountAPP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.cudenver.sequential.WordCountApp" />
+      <module name="Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.cudenver.sequential.WordCountApp" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.cudenver.sequential.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.cudenver.concurrent.WordCountApp" />
+      <module name="Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.cudenver.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCountAPP" />
+      <item itemvalue="Application.Concurrent" />
+      <item itemvalue="Application.WordCountApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountApp" />
+        <item itemvalue="Application.WordCountApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7c9f9d-3980-417e-92fa-43195ccc8023" name="Default Changelist" comment="" />
+      <created>1602617779663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602617779663</updated>
+      <workItem from="1602617781306" duration="10487000" />
+      <workItem from="1602635279526" duration="1700000" />
+      <workItem from="1602637005882" duration="31000" />
+      <workItem from="1667241383908" duration="11246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/edu/cudenver/concurrent/Counter.java</url>
+          <line>22</line>
+          <properties class="edu.cudenver.concurrent.Counter" method="processFiles">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
