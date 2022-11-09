@@ -105,4 +105,4 @@ Extend your server to be a multi-threaded server. In other words, your server sh
 
 ---
 # 3. UML Class Diagram
-<img src="https://github.com/a-burlacu/CSCI-3920/blob/main/Hwk4/hkw4.uml.png" width="300" center >
+<img src="https://github.com/a-burlacu/CSCI-3920/blob/main/Hwk4/hwk4.uml.png" width="300" center >
