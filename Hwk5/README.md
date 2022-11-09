@@ -26,20 +26,19 @@
 
    - takes an arbitrary number of arguments (see sect. 4.11) and computes the variance
 
-   - Variance is computed as   
-
-$$
-\sigma^2=\frac{\left\{1\right\}}{m-1}\sum_{i=1}^m\left(x_i-\overline{x}\right)^2
-$$
+   - Variance is computed as
+      $
+       \sigma^2=\frac{\left\{1\right\}}{m-1}\sum_{i=1}^m\left(x_i-\overline{x}\right)^2 
+      $
 
 - 
   - where *m* is the number of elements to compute the variance, xi is the *ith* element, and  x¯ is the mean of the values.
   - Example *hw6.compute_variance(1,2,3,4,5,4,3,4,3)* will return *1.4444444444444446*
 
-4. Function: ***`compute_variance_req`***
+1. Function: ***`compute_variance_req`***
    - a variant of the previous, in which your function requires at least 2 arguments (values to compute the variance). 
 
-5. Function: ***`compute_change_few_coins`***
+2. Function: ***`compute_change_few_coins`***
 
    - The function takes a real number representing the change a cashier will give the customer. It will compute, the minimum number of coins to give the customer for the exact amount of the change. 
 
@@ -49,7 +48,7 @@ $$
 
    - *HINT*: Do not use decimals to compute the small coins but change the scale to use integers
 
-6. Function: ***`binary_to_decimal`***
+3. Function: ***`binary_to_decimal`***
 
    - It takes a string as an argument, containing a sequence of all 0's and 1's.
 
@@ -57,13 +56,13 @@ $$
 
    - Example: "01" will return 1, and "1101" will return 13.
 
-7. Function:  ***`factorial`***
+4. Function:  ***`factorial`***
 
    - The function implements an iterative factorial.
    - It takes an integer *n* as an argument and returns *n!*
    - The method needs to be computed interactively (not recursively)
 
-8. Function: ***`approx_pie`***
+5. Function: ***`approx_pie`***
 
    - The function approximates the value of π. It takes an integer argument representing the number of terms used to compute the approximation. 
      $
@@ -72,7 +71,7 @@ $$
 
      - The previous example has 5 terms being $-\frac{4}{3}$ the first and $-\frac{4}{11}$ the fifth.
 
-9. Function: ***`approx_e`***
+6. Function: ***`approx_e`***
    - Similarly, we will approximate the number $e =2.718281828459045$ The function takes an integer representing the number of terms used to compute the approximation.
    - The approximation is computed as $e=1+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\frac{1}{5!}+...$
    
