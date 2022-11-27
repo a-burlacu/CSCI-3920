@@ -43,6 +43,7 @@ public class ClientWorker implements Runnable {
     }
 
     private void processClientRequest() throws IOException {
+
         String clientMessage = this.input.readLine(); //recv from client
         displayMessage("CLIENT SAID >> " + clientMessage);
 

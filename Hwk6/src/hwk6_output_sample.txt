@@ -1,0 +1,28 @@
+========================================================================================================================
+University Format:
+<university name> University with <number of enrolled students> students and <number of courses> courses.
+University Sample:
+'UCD University with 4 students and 2 courses.'
+------------------------------------------------------------------------------------------------------------------------
+Course Format:
+<course subject>:<course number>
+Course Sample:
+For Object: Course("CSCI",3920,"Advanced Programming w/Java & Python")
+'CSCI:3920'
+------------------------------------------------------------------------------------------------------------------------
+Student Format:
+<name on field of 20 char> - <student id center on field of 10> - <email on field of 50>- Standing: <standing>
+Student Sample:
+For Object: Graduate("Jean-luc Picard", "jeanluc@ucdenver.edu","phd")
+'Jean-luc Picard      -   000001   - jeanluc@ucdenver.edu                               - Standing: PhD'
+
+For Object: Graduate("William Riker", "will@ucdenver.edu", "master")
+'William Riker        -   000002   - will@ucdenver.edu                                  - Standing: Master'
+
+For Object: UnderGrad("Wesley Crusher", "wesley@ucdenver.edu", 4)
+'Wesley Crusher       -   000003   - wesley@ucdenver.edu                                - Standing: Undergraduate'
+
+
+The single quotes (') were added just to show the string start and end, should not be included int he output
+No new line should be included in the representation.
+========================================================================================================================

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e18796eb-f6a5-4d18-8b6e-c203ca14b7cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hwk5/src/hw6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hwk5/src/hw6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hwk5/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hwk5/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintTask/__MACOSX/edu/ucdenver/printTask/._Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintTask/__MACOSX/edu/ucdenver/printTask/._PrintTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/._edu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/._ucdenver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/._application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/._university" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/java/edu/ucdenver/university/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/._edu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/._ucdenver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/._application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/application/._application.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/application/._course.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__MACOSX/src/main/resources/edu/ucdenver/application/._student.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ucdenver/server/ClientWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ucdenver/server/ClientWorker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GnUnB8epUmRPR1ivL6wEZEl6e4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;idea.background.editor&quot;: &quot;C:\\Users\\Alina\\OneDrive - The University of Colorado Denver\\Coding\\CSCI-3920_PA1\\resources\\library.jpg,6,scale,center&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alina/OneDrive - The University of Colorado Denver/Coding/CSCI3920-Team11-PA1-85f63c35d53449b8b7db62905c15036ca4a2abf2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.ucdenver.library" />
+      <recent name="edu.ucdenver.client" />
+      <recent name="edu.ucdenver.server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client Application (1)">
+    <configuration name="Client Application (1)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucdenver.application.Main" />
+      <module name="multiLibrary" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucdenver.application.Main" />
+      <module name="multiLibrary" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLibraryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucdenver.library.MyLibraryApp" />
+      <module name="multiLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucdenver.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucdenver.server.ServerApplication" />
+      <module name="multiLibrary" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server Application" />
+      <item itemvalue="Application.Client Application" />
+      <item itemvalue="Application.Client Application (1)" />
+      <item itemvalue="Application.MyLibraryApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyLibraryApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18796eb-f6a5-4d18-8b6e-c203ca14b7cc" name="Changes" comment="" />
+      <created>1667024005626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667024005626</updated>
+      <workItem from="1667024008178" duration="3997000" />
+      <workItem from="1667082662770" duration="12158000" />
+      <workItem from="1667104415923" duration="13293000" />
+      <workItem from="1667158087641" duration="11733000" />
+      <workItem from="1667230662643" duration="732000" />
+      <workItem from="1667255040555" duration="63000" />
+      <workItem from="1667263462582" duration="56000" />
+      <workItem from="1667275507830" duration="5072000" />
+      <workItem from="1667968206201" duration="592000" />
+      <workItem from="1667981505263" duration="41000" />
+      <workItem from="1668102448020" duration="1266000" />
+      <workItem from="1668104551287" duration="26048000" />
+      <workItem from="1668193769505" duration="13909000" />
+      <workItem from="1668316410448" duration="60000" />
+      <workItem from="1668491428624" duration="1120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
