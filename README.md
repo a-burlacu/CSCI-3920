@@ -24,3 +24,6 @@
 <h3>
 <a href="https://github.com/a-burlacu/CSCI-3920/tree/main/Hwk5"> Homework 5: </a> Basic Python functions: split_number, is_palindrome, binary_to_decimal, compute_variance, etc.
 
+<h3>
+<a href="https://github.com/a-burlacu/CSCI-3920/tree/main/Hwk6"> Homework 6: </a>
+University system in Python | Abstract classes | RegEx
