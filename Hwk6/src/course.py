@@ -23,7 +23,6 @@ class Course:
     def title(self):
         return self.__title
 
-
     def __str__(self):
         """returns string representation of course"""
         return f'{self.subject}:{self.number}'
